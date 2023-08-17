@@ -1,0 +1,79 @@
+{
+  "navbar": {
+    "home": "Home",
+    "features": "Features",
+    "product": "Product",
+    "client": "Clients"
+  },
+  "hero": {
+    "discount": "Discount For",
+    "month": "1 Month",
+    "account": "Account",
+    "next": "The Next",
+    "generate": "Generation",
+    "paymentMethod": "Payment Method",
+    "paragraph": "Our team of experts uses a methodology to identify the credit cards most likely to fit your needs. We examine annual percentage rates, annual fees."
+  },
+  "stats": {
+    "userActive": "User Active",
+    "trustCompany": "Trust by Company",
+    "transaction": "Transaction"
+  },
+  "business": {
+    "title": "You do the busines, we'll handle the money.",
+    "paragraph": "With the right credit card, you can improve your financial life by building credit, earning rewards and saving money. But with hundreds of credit cards on the market.",
+    "button": "Get Started",
+    "reward": "Rewards",
+    "rewardParagraph": "The best credit cards offer some tantalizing combinations of promotions and prizes",
+    "secure": "100% Secured",
+    "secureParagraph": "We take proactive steps make sure your information and transactions are secure.",
+    "balance": "Balance Transfer",
+    "balanceParagraph": "A balance transfer credit card can save you a lot of money in interest charges."
+  },
+  "billing": {
+    "title": "Easily control your billing & invoicing.",
+    "paragraph": "Elit enim sed massa etiam. Mauris eu adipiscing ultrices ametodio aenean neque. Fusce ipsum orci rhoncus aliporttitor integer platea placerat."
+  },
+  "cardDeal": {
+    "title": "Find a better card deal in few easy steps.",
+    "paragraph": "Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau."
+  },
+  "testimonal": {
+    "title": "What people are saying about us",
+    "paragraph": "Everything you need to accept card payments and grow your business anywhere on the planet."
+  },
+  "feedback": {
+    "title1": "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+    "title2": "Money makes your life easier. If you're lucky to have it, you're lucky.",
+    "title3": "It is usually people in the money business, finance, and international trade that are really rich."
+  },
+  "cta": {
+    "title": "Let’s try our service now!",
+    "paragraph": "Everything you need to accept card payments and grow your business anywhere on the planet."
+  },
+  "footer": {
+    "title": "A new way to make the payments easy, reliable and secure.",
+    "title1": "Usefull Links",
+    "value1": {
+      "link1": "Content",
+      "link2": "How it works",
+      "link3": "Create",
+      "link4": "Explore",
+      "link5": "Terms & Services"
+    },
+    "title2": "Community",
+    "value2": {
+      "link1": "Help Center",
+      "link2": "Partners",
+      "link3": "Suggestions",
+      "link4": "Blog",
+      "link5": "Newsletters"
+    },
+    "title3": "Partner",
+    "value3": {
+      "link1": "Our Partner",
+      "link2": "Become a Partner"
+    }
+  },
+  "copyright": "Copyright Ⓒ 2023 HooBank. All Rights Reserved."
+}
