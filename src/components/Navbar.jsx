@@ -8,13 +8,12 @@ const Navbar = () => {
 
   const [toggle, setToggle] = useState(false);
   const { t, i18n } = useTranslation();
-  const {lang, setLang, setLoading } = useContext(AppContext);
+  const {lang, setLang } = useContext(AppContext);
 
   const changeLanguage = (event) => {
-    setLoading(true);
     setLang(event.target.value);
     i18n.changeLanguage(event.target.value);
-    setLoading(false);
+    window.location.reload();
   }
 
   return (
